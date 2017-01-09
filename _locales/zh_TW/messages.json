@@ -3,10 +3,10 @@
         "message": "新增網域"
     },
     "badger_status_block": {
-        "message": "遮蔽 "
+        "message": "封鎖 "
     },
     "badger_status_cookieblock": {
-        "message": "遮蔽此網站的 cookies "
+        "message": "封鎖此網站的 cookies "
     },
     "badger_status_noaction": {
         "message": "允許 "
