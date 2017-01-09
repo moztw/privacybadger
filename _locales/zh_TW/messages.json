@@ -57,16 +57,16 @@
         "message": "隱私獾"
     },
     "tooltip_allow": {
-        "message": "Move the slider right to allow a domain"
+        "message": "將滾動條滑到右邊允許該網域"
     },
     "tooltip_block": {
-        "message": "Move the slider left to block a domain"
+        "message": "將滾動條滑到左邊封鎖該網域"
     },
     "tooltip_cookieblock": {
-        "message": "Center the slider to block cookies"
+        "message": "將滾動條滑到中間封鎖該網域的 cookie"
     },
     "new_filters_added": {
-        "message": "新的過濾已新增；點選 <a id='options_url' target='_blank'>選擇</a> 以管理它們。"
+        "message": "已新增新的過濾器，點選 <a id='options_url' target='_blank'>選項</a> 來管理。"
     },
     "non_tracker": {
         "message": "以下網域看起來不在跟蹤你"
@@ -81,13 +81,13 @@
         "message": "使用者過濾設定"
     },
     "options_general_settings": {
-        "message": "General Settings"
+        "message": "一般設定"
     },
     "options_loading": {
         "message": "載入中…"
     },
     "options_remove_origin_confirm": {
-        "message": "Are you sure you want to remove this origin from Privacy Badger?"
+        "message": "您確定要從 Privacy Badger 移除此來源嗎？"
     },
     "options_slider_text": {
         "message": "隱私獾保護你瀏覽網頁！這些滾動條可讓你控制隱私獾如何處理每個在你的瀏覽期間被標記的跟蹤器。"
@@ -99,28 +99,28 @@
     "message": "隱私獾設定"
     },
     "options_webrtc_setting": {
-        "message": "Prevent WebRTC from leaking local IP address *"
+        "message": "防止 WebRTC 洩漏本機 IP 地址 *"
     },
     "options_webrtc_warning": {
-        "message": "* WebRTC can leak your local IP address. Privacy Badger's default setting helps protect you, but for added protection you may enable this option. Note that doing so may degrade performance on some tools like Google Hangouts."
+        "message": "* WebRTC 可能會洩漏您的 IP 地址。Privacy Badger 的預設設定即可保護您了，若您還想要更進一步的保護的話可以開啟此選項，但開啟此選項可能會造成 Google Hangouts 等工具的效能變差。"
     },
     "pb_detected": {
         "message": "隱私獾檢測到"
     },
     "popup_blocked": {
-        "message": "該站點沒有第三方資源。"
+        "message": "該網站沒有第三方資源。"
     },
     "popup_disable_for_site": {
-        "message": "在當前的網頁上禁用隱私獾"
+        "message": "在目前網頁停用隱私獾"
     },
     "popup_enable_for_site": {
-        "message": "在當前的網頁上啟用隱私獾"
+        "message": "在目前網頁開啟隱私獾"
     },
     "popup_instructions": {
         "message": "在這個網站上有潛在的<a target='_blank' href='https://www.eff.org/privacybadger#trackers'>跟蹤器</a> 。這些滾動條讓你控制隱私獾如何處理每一個跟蹤器。你不必調整他們，除非隱私獾造成網頁顯示異常。"
     },
     "popup_noblocked": {
-        "message": "為什麼沒有任何東西被封鎖？"
+        "message": "為什麼沒有封鎖任何東西？"
     },
     "popup_options_button": {
         "message": "選項"
@@ -136,7 +136,7 @@
         "message": "刪除所選"
     },
     "report_broken_site": {
-        "message": "報告隱私獾導致的顯示異常的網站"
+        "message": "回報隱私獾導致顯示異常的網站"
     },
     "report_button": {
         "message": "報告錯誤"
@@ -145,7 +145,7 @@
         "message": "取消"
     },
     "report_terms": {
-        "message": "這會自動把以下的資訊報告給電子前哨基金會：你現在訪問的網站，瀏覽器版本，隱私獾版本和這個網站所有滾動條的狀態。"
+        "message": "將會自動把下列資訊回報給 EFF 電子前鋒基金會: 您目前造訪的網站、瀏覽器版本、隱私獾版本，以及此網站所有滾動條的狀態。"
     },
     "report_title": {
         "message": "報告錯誤"
@@ -169,12 +169,12 @@
         "message": "顯示封鎖數目"
     },
     "whitelisted_domains": {
-        "description": "這是一個標籤頭。",
+        "description": "這是標籤頭。",
         "message": "網域白名單"
     },
     "intro1": {
         "description": "firstRun.html 隱私獾介紹",
-        "message": "隱私獾封鎖間諜廣告和隱形的跟蹤器。它的目的是確保公司在沒有沒有你的同意的情況下無法跟蹤你的網路瀏覽行為。"
+        "message": "隱私獾會封鎖間諜廣告和隱形的跟蹤器。它的目的是確保企業在未經您同意的情況下無法追蹤您的網路瀏覽行為。"
     },
     "intro2":{
         "message": "這個擴充套件被設計用來自動保護你的隱私以免受你在瀏覽網頁時無形中載入的第三方跟蹤器。我們在每個請求中傳送了「請勿跟蹤」（Do Not Track, DNT）檔頭，我們的擴充套件仍然會評估被跟蹤的可能性。如果演算法認為可能性太高，我們自動封鎖被發送到這個網域的請求。請了解隱私獾處於測試階段，而演算法的測定並不肯定那個網域在跟蹤你。"
@@ -210,28 +210,28 @@
         "message": "讓世界知道你反對網路跟蹤的立場"
     },
     "intro_text": {
-        "message": "You're now protected by Privacy Badger. To learn how Privacy Badger works, click below for a quick tutorial."
+        "message": "Privacy Badger 正在保護您，若要了解 Privacy Badger 的運作原理，請點擊下方進行快速教學。"
     },
     "ded_privacy_badger_alert": {
         "message": "隱私獾警告！"
     },
     "ded_logging_into": {
-        "message": "登入到 "
+        "message": "登入到"
     },
     "ded_can_allow_to_track": {
         "message": " 允許它在網路上跟蹤你。"
     },
     "ded_only_allow": {
-        "message": "只允許 "
+        "message": "只允許"
     },
     "ded_on": {
         "message": " 開 "
     },
     "ded_always_allow": {
-        "message": "永久允許 "
+        "message": "永久允許"
     },
     "ded_never_allow": {
-        "message": "永久封鎖第三方請求從 "
+        "message": "永久封鎖第三方請求從"
     },
     "options_pb_has_detected": {
       "message": "隱私獾發現了"
@@ -249,22 +249,22 @@
       "message": " 你好，我是隱私獾！感謝你安裝我。我在這兒為了給你有用的提示，我們可以一起工作。"
     },
     "slideshow_2": {
-      "message": " 我會在你的瀏覽器裡面，關注那些記錄你網上痕跡的間諜廣告和跟蹤器。"
+      "message": " 我會在你的瀏覽器裡面，注意那些記錄你上網紀錄的間諜廣告和跟蹤器。"
     },
     "slideshow_3": {
-      "message": " 如果我發現一個行為像跟蹤器的東西，我會用封鎖的方法阻止它。"
+      "message": " 如果我發現像是跟蹤器的東西，就會封鎖它。"
     },
     "slideshow_4": {
       "message": " 如果你單擊我的圖示你可以看見在當前標籤頁上的潛在的跟蹤器。"
     },
     "slideshow_5": {
-      "message": " 如果滾動條是紅色，這意味我完全封鎖了那個跟蹤器！那個惡魔不會再打擾你了。"
+      "message": " 如果滾動條是紅色，代表我完全封鎖了那個跟蹤器！那個惡魔不會再打擾你了。"
     },
     "slideshow_6": {
-      "message": " 如果滾動條是黃色，這意味我封鎖了部分跟蹤器。我會以封鎖它 cookie 的方式盡到我最大的努力阻止它跟蹤你，但是完全阻止它可能會導致頁面顯示異常。"
+      "message": " 如果滾動條是黃色，代表我封鎖了部分跟蹤器。我會以封鎖該網域 cookie 的方式盡量它跟蹤你，但是完全阻止它可能會導致頁面顯示異常。"
     },
     "slideshow_7": {
-      "message": " 如果滾動條是綠色，我還不清楚這個網域是否在跟蹤你。它可能不是，可是我還會關注它的。"
+      "message": " 如果滾動條是綠色，代表我還不清楚這個網域是否在跟蹤你。它可能不是，可是我還會關注它的。"
     },
     "slideshow_8": {
       "message": " 當你第一次點選我的圖示，你可能會發現所有的跟蹤器都是綠色的，別擔心！我與其他跟蹤器封鎖軟體不同。我會在你瀏覽網頁時學習哪些是該封鎖的，而不是一上來就根據已知的清單封鎖。如果我啥都沒開始封鎖，你可以嘗試瀏覽四到五個不同的網站。之後我就開始封鎖常見的跟蹤器。"
@@ -288,10 +288,10 @@
       "message": "如果你要更改其他設定，你可以點選這個齒輪圖示。"
     },
     "slideshow_15": {
-      "message": "當然你也可以不管這些設定，而我會繼續靜默地處理掉我發現的跟蹤器。"
+      "message": "當然你也可以不管這些設定，而我會繼續安靜地處理掉我發現的跟蹤器。"
     },
     "slideshow_16": {
-      "message": "感謝你邁出了通往保護自我隱私重要而又簡單的一步！如果你需要幫助，可以點選此處，你也點選下面告訴世界你反對網路跟蹤的立場。"
+      "message": "感謝你邁出了通往保護隱私重要而又簡單的一步！如果你需要幫助，可以點選此處，你也點選下面告訴世界你反對網路跟蹤的立場。"
     },
     "donate_to_eff": {
       "message": "捐款給 EFF 電子前鋒基金會"
