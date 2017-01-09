@@ -74,11 +74,20 @@
     "non_tracker_tip": {
         "message": "目前隱私獾只檢查第三方 cookies，第五代超文字標記語言(HTML5)本地儲存，帆布指紋識別(canvas fingerprinting)跟蹤你瀏覽網頁的情況。 有些域名可能使用了隱私獾無法檢測的跟蹤方式。"
     },
+    "options_domain_search": {
+        "message": "Search domains"
+    },
     "options_filter_settings": {
         "message": "使用者過濾設定"
     },
+    "options_general_settings": {
+        "message": "General Settings"
+    },
     "options_loading": {
         "message": "載入中…"
+    },
+    "options_remove_origin_confirm": {
+        "message": "Are you sure you want to remove this origin from Privacy Badger?"
     },
     "options_slider_text": {
         "message": "隱私獾保護你瀏覽網頁！這些滾動條讓你控制隱私獾如何處理每個在你的瀏覽期間被標記的跟蹤器。"
@@ -199,6 +208,9 @@
     },
     "intro_social_share": {
         "message": "讓世界知道你反對網路跟蹤的立場"
+    },
+    "intro_text": {
+        "message": "You're now protected by Privacy Badger. To learn how Privacy Badger works, click below for a quick tutorial."
     },
     "ded_privacy_badger_alert": {
         "message": "隱私獾警告！"
