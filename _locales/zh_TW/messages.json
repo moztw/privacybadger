@@ -12,7 +12,7 @@
         "message": "允許 "
     },
     "data_settings": {
-        "message": "Manage Data"
+        "message": "管理資料"
     },
     "description": {
         "message": "你在網上衝浪的時候，隱私獾會保護你免受跟蹤器的煩惱！"
@@ -21,13 +21,13 @@
         "message": "隱私獾被禁用在以下域名。你可以通過點選位址列的隱私獾圖示單擊“新增域名”按鈕，在方框中輸入域名（而不是URL）進行新增域名。"
     },
     "download": {
-        "message": "Download"
+        "message": "下載"
     },
     "error_input": {
         "message": "問題是什麼？"
     },
     "export_user_data": {
-        "message": "Export user data"
+        "message": "匯出使用者資料"
     },
     "feed_the_badger_title": {
         "message": "點選以讓隱私獾控制這個跟蹤器的"
@@ -39,19 +39,19 @@
         "message": "瞭解隱私獾如何保護你的隱私。"
     },
     "import": {
-        "message": "Import"
+        "message": "匯入"
     },
     "import_select_file": {
-        "message": "Please select a file to import."
+        "message": "請選擇要匯入的檔案"
     },
     "import_successful": {
-        "message": "Tracker list and settings updated successfully!"
+        "message": "追蹤器清單和設定更新成功！"
     },
     "import_user_data": {
-        "message": "Import user data"
+        "message": "匯入使用者資料"
     },
     "invalid_json": {
-        "message": "Invalid JSON file."
+        "message": "不合法的 JSON 檔案。"
     },
     "name": {
         "message": "隱私獾"
