@@ -6,7 +6,7 @@
         "message": "封鎖 "
     },
     "badger_status_cookieblock": {
-        "message": "封鎖此網站的 cookies "
+        "message": "封鎖此網站的 cookie"
     },
     "badger_status_noaction": {
         "message": "允許 "
@@ -72,7 +72,7 @@
         "message": "以下域名看起來不在跟蹤你"
     },
     "non_tracker_tip": {
-        "message": "目前隱私獾只檢查第三方 cookies，第五代超文字標記語言(HTML5)本地儲存，帆布指紋識別(canvas fingerprinting)跟蹤你瀏覽網頁的情況。 有些域名可能使用了隱私獾無法檢測的跟蹤方式。"
+        "message": "目前隱私獾只檢查第三方 cookie，第五代超文字標記語言(HTML5)本地儲存，帆布指紋識別(canvas fingerprinting)跟蹤你瀏覽網頁的情況。 有些域名可能使用了隱私獾無法檢測的跟蹤方式。"
     },
     "options_domain_search": {
         "message": "Search domains"
@@ -192,7 +192,7 @@
         "message": "黃色"
     },
     "intro_cookie_blocked":{
-        "message": "意味著域名既是一個跟蹤器也是頁面必要的功能，所以隱私獾允許它但是封鎖了它的 cookies。"
+        "message": "意味著域名既是一個跟蹤器也是頁面必要的功能，所以隱私獾允許它但是封鎖了它的 cookie。"
     },
     "intro_green":{
         "message": "綠色"
@@ -201,7 +201,7 @@
         "message": "意味著隱私獾認為這不是一個跟蹤器。如果你想更改自動封鎖設定，你可以點選瀏覽器的隱私獾圖示。或者你可以安靜的瀏覽，而隱私獾會尋找並一個一個的吃掉跟蹤器。"
     },
     "intro_hungry":{
-        "message":"隱私獾肚子餓的時候，沒有任何東西可以阻止它吃 cookies ！"
+        "message":"隱私獾肚子餓的時候，沒有任何東西可以阻止它吃 cookie！"
     },
     "intro_by_eff":{
         "message": "電子前哨基金會一個的專案"
@@ -261,7 +261,7 @@
       "message": " 如果滾動條是紅色，這意味我完全封鎖了那個跟蹤器！那個惡魔不會再打擾你了。"
     },
     "slideshow_6": {
-      "message": " 如果滾動條是黃色，這意味我封鎖了部分跟蹤器。我會以封鎖它cookies的方式盡到我最大的努力阻止它跟蹤你，但是完全阻止它可能會導致頁面顯示異常。"
+      "message": " 如果滾動條是黃色，這意味我封鎖了部分跟蹤器。我會以封鎖它 cookie 的方式盡到我最大的努力阻止它跟蹤你，但是完全阻止它可能會導致頁面顯示異常。"
     },
     "slideshow_7": {
       "message": " 如果滾動條是綠色，我還不清楚這個域名是否在跟蹤你。它可能不是，可是我還會關注它的。"
