@@ -177,13 +177,13 @@
         "message": "紅色"
     },
     "intro_has_blocked":{
-        "message": " 意味著隱私獾這個這個域名是一個跟蹤器，並封鎖了它。 "
+        "message": "意味著隱私獾認為這個域名是一個跟蹤器，並封鎖了它。 "
     },
     "intro_yellow":{
         "message": "黃色"
     },
     "intro_cookie_blocked":{
-        "message": "意味著域名既是一個跟蹤器也是頁面必要的功能，所以隱私獾在允許它但是封鎖了它的 cookies。"
+        "message": "意味著域名既是一個跟蹤器也是頁面必要的功能，所以隱私獾允許它但是封鎖了它的 cookies。"
     },
     "intro_green":{
         "message": "綠色"
