@@ -87,10 +87,10 @@
         "message": "載入中…"
     },
     "options_remove_origin_confirm": {
-        "message": "您確定要從 Privacy Badger 移除此來源嗎？"
+        "message": "你確定要從 Privacy Badger 移除此來源嗎？"
     },
     "options_slider_text": {
-        "message": "Privacy Badger保護你瀏覽網頁！這些滾動條可讓你控制Privacy Badger要如何處理瀏覽時找到的追蹤器。"
+        "message": "Privacy Badger保護你瀏覽網頁！這些滾動條可讓你選擇Privacy Badger要如何處理瀏覽時找到的追蹤器。"
     },
     "options_social_widgets_checkbox": {
         "message": "替換社交網路小工具"
@@ -117,7 +117,7 @@
         "message": "在目前網頁開啟Privacy Badger"
     },
     "popup_instructions": {
-        "message": "個可能的<a target='_blank' href='https://www.eff.org/privacybadger#trackers'>追蹤器</a>。<br>這些滾動條讓您可控制Privacy Badger如何處理每一個追蹤器，但除非Privacy Badger造成網頁顯示異常，不必特別調整。"
+        "message": "可疑的<a target='_blank' href='https://www.eff.org/privacybadger#trackers'>追蹤器</a>。<br>這些滾動條讓您可控制Privacy Badger如何處理每一個追蹤器，但除非Privacy Badger造成網頁顯示異常，不必特別調整。"
     },
     "popup_noblocked": {
         "message": "為什麼沒有封鎖任何東西？"
