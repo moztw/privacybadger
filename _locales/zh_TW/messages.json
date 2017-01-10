@@ -234,7 +234,7 @@
         "message": "永久封鎖第三方請求從"
     },
     "options_pb_has_detected": {
-        "message": "隱私獾偵測到"
+        "message": "目前為止，隱私獾偵測到"
     },
     "options_potential": {
         "message": "個可能的"
@@ -243,7 +243,7 @@
         "message": "追蹤器網域"
     },
     "options_so_far": {
-        "message": "到目前為止。這些滾動條可讓您控制隱私獾要如何處理追蹤器。"
+        "message": "這些滾動條可讓您控制隱私獾要如何處理追蹤器。"
     },
     "slideshow_1": {
         "message": "你好，我是隱私獾！感謝你安裝我。以下是一些有用的提示，以便我們可以合作愉快。"
