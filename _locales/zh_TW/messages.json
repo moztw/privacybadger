@@ -9,7 +9,7 @@
         "message": "封鎖此網站的 cookie"
     },
     "badger_status_noaction": {
-        "message": "允許 "
+        "message": "允許"
     },
     "data_settings": {
         "message": "管理資料"
@@ -18,13 +18,13 @@
         "message": "你在網上衝浪的時候，隱私獾會保護你免於被追蹤器追蹤的煩惱！"
     },
     "disabled_for_these_domains": {
-        "message": "隱私獾在以下網域被禁用。你可以通過點選位址列的隱私獾圖示單擊「新增網域」按鈕，在輸入框中填入網域名稱（而不是網址）來新增。"
+        "message": "已為下列網域停用隱私獾。您可以點擊網址列中的隱私獾圖示，或在下方輸入框中輸入網域名稱（而非網址），然後點擊「新增網域」按鈕來新增要停用隱私獾的網域。"
     },
     "download": {
         "message": "下載"
     },
     "error_input": {
-        "message": "問題是什麼？"
+        "message": "有什麼問題？"
     },
     "export_user_data": {
         "message": "匯出使用者資料"
@@ -51,7 +51,7 @@
         "message": "匯入使用者資料"
     },
     "invalid_json": {
-        "message": "不合法的 JSON 檔案。"
+        "message": "無效的 JSON 檔案。"
     },
     "name": {
         "message": "隱私獾"
@@ -66,19 +66,19 @@
         "message": "將滾動條滑到中間封鎖該網域的 cookie"
     },
     "new_filters_added": {
-        "message": "已新增新的過濾器，點選 <a id='options_url' target='_blank'>選項</a> 來管理。"
+        "message": "已加入新的過濾器，點選 <a id='options_url' target='_blank'>選項</a> 來管理。"
     },
     "non_tracker": {
-        "message": "以下網域看起來沒有在追蹤你"
+        "message": "以下網域看起來都沒有在追蹤你"
     },
     "non_tracker_tip": {
-        "message": "目前隱私獾只檢查透過第三方 cookie、HTML5 Local Storage、Canvas 指紋來追蹤你瀏覽網頁的情況。有些網域可能使用了隱私獾無法檢測的追蹤方式。"
+        "message": "目前隱私獾只檢查透過第三方 cookie、HTML5 Local Storage、Canvas 指紋來追蹤你瀏覽網頁的情況。有些網域可能使用了隱私獾無法偵測的追蹤方式。"
     },
     "options_domain_search": {
         "message": "搜尋網域"
     },
     "options_filter_settings": {
-        "message": "使用者過濾設定"
+        "message": "使用者過濾器設定"
     },
     "options_general_settings": {
         "message": "一般設定"
@@ -90,10 +90,10 @@
         "message": "您確定要從 Privacy Badger 移除此來源嗎？"
     },
     "options_slider_text": {
-        "message": "隱私獾保護你瀏覽網頁！這些滾動條可讓你控制隱私獾如何處理每個在你的瀏覽期間被標記的追蹤器。"
+        "message": "隱私獾保護你瀏覽網頁！這些滾動條可讓你控制隱私獾要如何處理瀏覽時找到的追蹤器。"
     },
     "options_social_widgets_checkbox": {
-        "message": "更換社交網路工具"
+        "message": "替換社交網路小工具"
     },
     "options_title": {
         "message": "隱私獾設定"
@@ -105,10 +105,10 @@
         "message": "* WebRTC 可能會洩漏您的 IP 地址。Privacy Badger 的預設設定即可保護您了，若您還想要更進一步的保護的話可以開啟此選項，但開啟此選項可能會造成 Google Hangouts 等工具的效能變差。"
     },
     "pb_detected": {
-        "message": "隱私獾檢測到"
+        "message": "隱私獾偵測到這個網站上有"
     },
     "popup_blocked": {
-        "message": "該網站沒有第三方資源。"
+        "message": "此網站當中沒有第三方資源。"
     },
     "popup_disable_for_site": {
         "message": "在目前網頁停用隱私獾"
@@ -117,7 +117,7 @@
         "message": "在目前網頁開啟隱私獾"
     },
     "popup_instructions": {
-        "message": "在這個網站上有潛在的<a target='_blank' href='https://www.eff.org/privacybadger#trackers'>追蹤器</a> 。這些滾動條讓你控制隱私獾如何處理每一個追蹤器。你不必調整他們，除非隱私獾造成網頁顯示異常。"
+        "message": "個可能的<a target='_blank' href='https://www.eff.org/privacybadger#trackers'>追蹤器</a>。<br>這些滾動條讓您可控制隱私獾如何處理每一個追蹤器，但除非隱私獾造成網頁顯示異常，不必特別調整。"
     },
     "popup_noblocked": {
         "message": "為什麼沒有封鎖任何東西？"
@@ -139,16 +139,16 @@
         "message": "回報隱私獾導致顯示異常的網站"
     },
     "report_button": {
-        "message": "報告錯誤"
+        "message": "送出錯誤"
     },
     "report_cancel": {
         "message": "取消"
     },
     "report_terms": {
-        "message": "將會自動把下列資訊回報給 EFF 電子前鋒基金會: 您目前造訪的網站、瀏覽器版本、隱私獾版本，以及此網站所有滾動條的狀態。"
+        "message": "將會自動回報下列資訊給 EFF 電子前鋒基金會: 您目前造訪的網站、瀏覽器版本、隱私獾版本，以及此網站所有滾動條的狀態。"
     },
     "report_title": {
-        "message": "報告錯誤"
+        "message": "回報錯誤"
     },
     "report_text": {
         "message": "在下面簡要描述發生的錯誤。"
@@ -169,7 +169,7 @@
         "message": "顯示封鎖數目"
     },
     "whitelisted_domains": {
-        "description": "這是標籤頭。",
+        "description": "這是清單標題列。",
         "message": "網域白名單"
     },
     "intro1": {
@@ -192,19 +192,19 @@
         "message": "黃色"
     },
     "intro_cookie_blocked":{
-        "message": "代表此網域既是一個追蹤器也是頁面必要的功能，所以隱私獾允許它但是封鎖了它的 cookie。"
+        "message": "代表此網域既是追蹤器，也是頁面必需的部分，所以隱私獾允許它但是封鎖 cookie。"
     },
     "intro_green":{
         "message": "綠色"
     },
     "intro_no_tracker":{
-        "message": "意味著隱私獾認為這不是一個追蹤器。如果你想更改自動封鎖設定，你可以點選瀏覽器的隱私獾圖示。或者你可以安靜的瀏覽，而隱私獾會尋找並一個一個的吃掉追蹤器。"
+        "message": "意味著隱私獾認為這不是追蹤器。如果你想更改自動封鎖設定，可以點選瀏覽器工具列上的隱私獾圖示；也可以繼續上網，隱私獾會找出並一個一個吃掉追蹤器。"
     },
     "intro_hungry":{
         "message":"隱私獾肚子餓的時候，沒有任何東西可以阻止它吃 cookie！"
     },
     "intro_by_eff":{
-        "message": "EFF 電子前鋒基金會一個的專案"
+        "message": "EFF 電子前鋒基金會的專案"
     },
     "intro_social_share": {
         "message": "讓世界知道你反對網路追蹤的立場"
@@ -219,7 +219,7 @@
         "message": "登入到"
     },
     "ded_can_allow_to_track": {
-        "message": " 允許它在網路上追蹤你。"
+        "message": "允許它在網路上追蹤你。"
     },
     "ded_only_allow": {
         "message": "只允許"
@@ -234,64 +234,64 @@
         "message": "永久封鎖第三方請求從"
     },
     "options_pb_has_detected": {
-        "message": "隱私獾發現了"
+        "message": "隱私獾偵測到"
     },
     "options_potential": {
-        "message": "潛在的"
+        "message": "個可能的"
     },
     "options_tracking_domains": {
-        "message": "追蹤的網域"
+        "message": "追蹤器網域"
     },
     "options_so_far": {
-        "message": "到目前為止。這些滾動條讓你控制隱私獾如何處理每個追蹤器。"
+        "message": "到目前為止。這些滾動條可讓您控制隱私獾要如何處理追蹤器。"
     },
     "slideshow_1": {
-        "message": " 你好，我是隱私獾！感謝你安裝我。這裡有些有用的提示提供給你，以便我們可以合作愉快。"
+        "message": "你好，我是隱私獾！感謝你安裝我。以下是一些有用的提示，以便我們可以合作愉快。"
     },
     "slideshow_2": {
-        "message": " 我會在你的瀏覽器裡面，注意那些記錄你上網紀錄的間諜廣告和追蹤器。"
+        "message": "我會在你的瀏覽器裡面，注意那些記錄你上網紀錄的間諜廣告和追蹤器。"
     },
     "slideshow_3": {
-        "message": " 如果我發現像是追蹤器的東西，就會封鎖它。"
+        "message": "如果我發現像是追蹤器的東西，就會封鎖它。"
     },
     "slideshow_4": {
-        "message": " 如果你單擊我的圖示你可以看見在當前標籤頁上的潛在的追蹤器。"
+        "message": "單擊我的圖示，可以看見目前分頁中有哪些可能的追蹤器。"
     },
     "slideshow_5": {
-        "message": " 如果滾動條是紅色，代表我完全封鎖了那個追蹤器！那個惡魔不會再打擾你了。"
+        "message": "如果滾動條是紅色的，代表我完全封鎖了那個追蹤器！那個惡魔不會再打擾你了。"
     },
     "slideshow_6": {
-        "message": " 如果滾動條是黃色，代表我封鎖了部分追蹤器。我會以封鎖該網域 cookie 的方式盡量阻止它追蹤你，但是完全阻止它可能會導致頁面顯示異常。"
+        "message": "如果滾動條是黃色的，代表我封鎖了部分追蹤器。我會吃掉來自該網域的 cookie 來盡量阻止它追蹤，但是完全阻止它可能會導致頁面顯示異常。"
     },
     "slideshow_7": {
-        "message": " 如果滾動條是綠色，代表我還不清楚這個網域是否在追蹤你。它可能不是，可是我還會關注它的。"
+        "message": "如果滾動條是綠色的，代表我還不清楚這個網域是否在追蹤你。它可能不是，可是我還會關注它的。"
     },
     "slideshow_8": {
-        "message": " 當你第一次點選我的圖示，你可能會發現所有的追蹤器都是綠色的，別擔心！我與其他追蹤器封鎖軟體不同。我會在你瀏覽網頁時學習哪些是該封鎖的，而不是一上來就根據已知的清單封鎖。如果我啥都沒開始封鎖，你可以嘗試瀏覽四到五個不同的網站。之後我就開始封鎖常見的追蹤器。"
+        "message": " 第一次點選我的圖示，可能會發現所有追蹤器都是綠色的，別擔心！我與其他追蹤器封鎖軟體不同。我會在你瀏覽網頁時學習哪些是該封鎖的，而不是一上來就根據已知的清單封鎖。如果我啥都沒開始封鎖，你可以嘗試瀏覽四五個網站。之後就會開始封鎖常見的追蹤器。"
     },
     "slideshow_9": {
-        "message": " 我會在瀏覽中學習，因此用我的時間越長你就可以更好的免受鬼鬼祟祟的追蹤器的煩惱！"
+        "message": "我會在瀏覽中學習，因此用我的時間越長你就可以更加躲開鬼鬼祟祟的追蹤器們！"
     },
     "slideshow_10": {
-        "message": " 如果你覺得我在追蹤器的封鎖上犯了錯，你可以把滾動條移到紅色處以完全封鎖之，黃色處是部分封鎖，綠色處則是允許之。"
+        "message": "如果你覺得我搞錯了該封鎖的追蹤器，你可以把滾動條移到紅色處完全封鎖、黃色處部分封鎖、綠色處則是允許。"
     },
     "slideshow_11": {
-        "message": " 如果你更改我的設定，你隨時可以點選撤銷箭頭讓我來控制它的設定。"
+        "message": "如果你修改了我的設定，可以隨時點選還原箭頭讓我來控制它的設定。"
     },
     "slideshow_12": {
-        "message": " 如果你瀏覽網頁出現問題，並且你覺得是我造成的，你可以點選禁用按鈕。我會開始睡覺，不再封鎖那個網頁上的東西。"
+        "message": "如果你瀏覽網頁出現問題，並且你覺得是我造成的，你可以點選這裡的停用。我會開始睡覺，不再封鎖該網站上的東西。"
     },
     "slideshow_13": {
-        "message": " 如果我造成了頁面顯示異常，請讓我的開發者知道，以便讓他們修復這個問題！點選這個按鈕報告問題。"
+        "message": "如果我造成頁面顯示異常，請讓我的開發者知道，以便他們修正這個問題！可以點擊這個按鈕回報問題。"
     },
     "slideshow_14": {
-        "message": "如果你要更改其他設定，你可以點選這個齒輪圖示。"
+        "message": "如果你要更改其他設定，可以點選這個齒輪圖示。"
     },
     "slideshow_15": {
-        "message": "當然你也可以不管這些設定，而我會繼續安靜地處理掉我發現的追蹤器。"
+        "message": "當然你也可以不管這些設定，我會繼續安靜地吃掉我發現的追蹤器。"
     },
     "slideshow_16": {
-        "message": "感謝你邁出了通往保護隱私重要而又簡單的一步！如果你需要幫助，可以點選此處，你也點選下面告訴世界你反對網路追蹤的立場。"
+        "message": "感謝你邁出了通往保護隱私重要而又簡單的一步！如果你需要幫助，可以點選此處。你也可以點選下面的按鈕，告訴世界你反對網路追蹤的立場。"
     },
     "donate_to_eff": {
         "message": "捐款給 EFF 電子前鋒基金會"
