@@ -18,7 +18,7 @@
         "message": "你在網上衝浪的時候，Privacy Badger會保護你免於被追蹤器追蹤的煩惱！"
     },
     "disabled_for_these_domains": {
-        "message": "已為下列網域停用Privacy Badger。您可以點擊網址列中Privacy Badger的圖示，或在下方輸入框中輸入網域名稱（而非網址），然後點擊「新增網域」按鈕來新增要停用Privacy Badger的網域。"
+        "message": "已為下列網域停用Privacy Badger。你可以點擊網址列中Privacy Badger的圖示，或在下方輸入框中輸入網域名稱（而非網址），然後點擊「新增網域」按鈕來新增要停用Privacy Badger的網域。"
     },
     "download": {
         "message": "下載"
@@ -102,7 +102,7 @@
         "message": "防止 WebRTC 洩漏本機 IP 地址 *"
     },
     "options_webrtc_warning": {
-        "message": "* WebRTC 可能會洩漏您的 IP 地址。Privacy Badger 的預設設定即可保護您了，若您還想要更進一步的保護的話可以開啟此選項，但開啟此選項可能會造成 Google Hangouts 等工具的效能變差。"
+        "message": "* WebRTC 可能會洩漏你的 IP 地址。Privacy Badger 的預設設定即可保護你了，若你還想要更進一步的保護的話可以開啟此選項，但開啟此選項可能會造成 Google Hangouts 等工具的效能變差。"
     },
     "pb_detected": {
         "message": "Privacy Badger偵測到這個網站上有"
@@ -117,7 +117,7 @@
         "message": "在目前網頁開啟Privacy Badger"
     },
     "popup_instructions": {
-        "message": "可疑的<a target='_blank' href='https://www.eff.org/privacybadger#trackers'>追蹤器</a>。<br>這些滾動條讓您可控制Privacy Badger如何處理每一個追蹤器，但除非Privacy Badger造成網頁顯示異常，不必特別調整。"
+        "message": "可疑的<a target='_blank' href='https://www.eff.org/privacybadger#trackers'>追蹤器</a>。<br>這些滾動條讓你可控制Privacy Badger如何處理每一個追蹤器，但除非Privacy Badger造成網頁顯示異常，不必特別調整。"
     },
     "popup_noblocked": {
         "message": "為什麼沒有封鎖任何東西？"
@@ -145,7 +145,7 @@
         "message": "取消"
     },
     "report_terms": {
-        "message": "將會自動回報下列資訊給 EFF 電子前鋒基金會: 您目前造訪的網站、瀏覽器版本、Privacy Badger版本，以及此網站所有滾動條的狀態。"
+        "message": "將會自動回報下列資訊給 EFF 電子前鋒基金會: 你目前造訪的網站、瀏覽器版本、Privacy Badger版本，以及此網站所有滾動條的狀態。"
     },
     "report_title": {
         "message": "回報錯誤"
@@ -174,7 +174,7 @@
     },
     "intro1": {
         "description": "firstRun.html Privacy Badger介紹",
-        "message": "Privacy Badger會封鎖間諜廣告和隱形的追蹤器。它的目的是確保企業在未經您同意的情況下無法追蹤您的網路瀏覽行為。"
+        "message": "Privacy Badger會封鎖間諜廣告和隱形的追蹤器。它的目的是確保企業在未經你同意的情況下無法追蹤你的網路瀏覽行為。"
     },
     "intro2":{
         "message": "這個擴充套件被設計用來自動保護你的隱私以免受你在瀏覽網頁時無形中載入的第三方追蹤器。我們在每個請求中傳送了「請勿追蹤」（Do Not Track, DNT）檔頭，我們的擴充套件仍然會評估被追蹤的可能性。如果演算法認為可能性太高，我們自動封鎖被發送到這個網域的請求。請了解Privacy Badger處於測試階段，而演算法的測定並不肯定那個網域在追蹤你。"
@@ -210,7 +210,7 @@
         "message": "讓世界知道你反對網路追蹤的立場"
     },
     "intro_text": {
-        "message": "Privacy Badger 正在保護您，若要了解 Privacy Badger 的運作原理，請點擊下方進行快速教學。"
+        "message": "Privacy Badger 正在保護你，若要了解 Privacy Badger 的運作原理，請點擊下方進行快速教學。"
     },
     "ded_privacy_badger_alert": {
         "message": "Privacy Badger警告！"
@@ -243,7 +243,7 @@
         "message": "追蹤器網域"
     },
     "options_so_far": {
-        "message": "這些滾動條可讓您控制Privacy Badger要如何處理追蹤器。"
+        "message": "這些滾動條可讓你控制Privacy Badger要如何處理追蹤器。"
     },
     "slideshow_1": {
         "message": "你好，我是Privacy Badger！感謝你安裝我。以下是一些有用的提示，以便我們可以合作愉快。"
