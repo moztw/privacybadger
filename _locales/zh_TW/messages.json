@@ -15,10 +15,10 @@
         "message": "管理資料"
     },
     "description": {
-        "message": "你在網上衝浪的時候，Privacy Badger會保護你免於被追蹤器追蹤的煩惱！"
+        "message": "你在網上衝浪的時候，Privacy Badger 會保護你免於被追蹤器追蹤的煩惱！"
     },
     "disabled_for_these_domains": {
-        "message": "已為下列網域停用Privacy Badger。你可以點擊網址列中Privacy Badger的圖示，或在下方輸入框中輸入網域名稱（而非網址），然後點擊「新增網域」按鈕來新增要停用Privacy Badger的網域。"
+        "message": "已為下列網域停用 Privacy Badger。你可以點擊網址列中 Privacy Badger 的圖示，或在下方輸入框中輸入網域名稱（而非網址），然後點擊「新增網域」按鈕來新增要停用 Privacy Badger 的網域。"
     },
     "download": {
         "message": "下載"
@@ -30,13 +30,13 @@
         "message": "匯出使用者資料"
     },
     "feed_the_badger_title": {
-        "message": "點選以讓Privacy Badger控制這個追蹤器"
+        "message": "點選以讓 Privacy Badger 控制這個追蹤器"
     },
     "firstRun_title": {
-        "message": "感謝你安裝Privacy Badger！"
+        "message": "感謝你安裝 Privacy Badger！"
     },
     "first_run_text": {
-        "message": "瞭解Privacy Badger如何保護你的隱私。"
+        "message": "瞭解 Privacy Badger 如何保護你的隱私。"
     },
     "import": {
         "message": "匯入"
@@ -72,7 +72,7 @@
         "message": "以下網域看起來都沒有在追蹤你"
     },
     "non_tracker_tip": {
-        "message": "目前Privacy Badger只檢查透過第三方 cookie、HTML5 Local Storage、Canvas 指紋來追蹤你瀏覽網頁的情況。有些網域可能使用了Privacy Badger無法偵測的追蹤方式。"
+        "message": "目前 Privacy Badger 只檢查透過第三方 cookie、HTML5 Local Storage、Canvas 指紋來追蹤你瀏覽網頁的情況。有些網域可能使用了 Privacy Badger 無法偵測的追蹤方式。"
     },
     "options_domain_search": {
         "message": "搜尋網域"
@@ -90,7 +90,7 @@
         "message": "你確定要從 Privacy Badger 移除此來源嗎？"
     },
     "options_slider_text": {
-        "message": "Privacy Badger保護你瀏覽網頁！這些滾動條可讓你選擇Privacy Badger要如何處理瀏覽時找到的追蹤器。"
+        "message": "Privacy Badger 保護你瀏覽網頁！這些滾動條可讓你選擇 Privacy Badger 要如何處理瀏覽時找到的追蹤器。"
     },
     "options_social_widgets_checkbox": {
         "message": "替換社交網路小工具"
@@ -105,19 +105,19 @@
         "message": "* WebRTC 可能會洩漏你的 IP 地址。Privacy Badger 的預設設定即可保護你了，若你還想要更進一步的保護的話可以開啟此選項，但開啟此選項可能會造成 Google Hangouts 等工具的效能變差。"
     },
     "pb_detected": {
-        "message": "Privacy Badger偵測到這個網站上有"
+        "message": "Privacy Badger 偵測到這個網站上有"
     },
     "popup_blocked": {
         "message": "此網站當中沒有第三方資源。"
     },
     "popup_disable_for_site": {
-        "message": "在目前網頁停用Privacy Badger"
+        "message": "在目前網頁停用 Privacy Badger"
     },
     "popup_enable_for_site": {
-        "message": "在目前網頁開啟Privacy Badger"
+        "message": "在目前網頁開啟 Privacy Badger"
     },
     "popup_instructions": {
-        "message": "可疑的<a target='_blank' href='https://www.eff.org/privacybadger#trackers'>追蹤器</a>。<br>這些滾動條讓你可控制Privacy Badger如何處理每一個追蹤器，但除非Privacy Badger造成網頁顯示異常，不必特別調整。"
+        "message": "可疑的<a target='_blank' href='https://www.eff.org/privacybadger#trackers'>追蹤器</a>。<br>這些滾動條讓你可控制 Privacy Badger 如何處理每一個追蹤器，但除非 Privacy Badger 造成網頁顯示異常，不必特別調整。"
     },
     "popup_noblocked": {
         "message": "為什麼沒有封鎖任何東西？"
@@ -136,7 +136,7 @@
         "message": "刪除所選"
     },
     "report_broken_site": {
-        "message": "回報Privacy Badger導致顯示異常的網站"
+        "message": "回報 Privacy Badger 導致顯示異常的網站"
     },
     "report_button": {
         "message": "送出錯誤"
@@ -145,7 +145,7 @@
         "message": "取消"
     },
     "report_terms": {
-        "message": "將會自動回報下列資訊給 EFF 電子前鋒基金會: 你目前造訪的網站、瀏覽器版本、Privacy Badger版本，以及此網站所有滾動條的狀態。"
+        "message": "將會自動回報下列資訊給 EFF 電子前鋒基金會: 你目前造訪的網站、瀏覽器版本、 Privacy Badger 版本，以及此網站所有滾動條的狀態。"
     },
     "report_title": {
         "message": "回報錯誤"
@@ -174,10 +174,10 @@
     },
     "intro1": {
         "description": "firstRun.html Privacy Badger介紹",
-        "message": "Privacy Badger會封鎖間諜廣告和隱形的追蹤器。它的目的是確保企業在未經你同意的情況下無法追蹤你的網路瀏覽行為。"
+        "message": "Privacy Badger 會封鎖間諜廣告和隱形的追蹤器。它的目的是確保企業在未經你同意的情況下無法追蹤你的網路瀏覽行為。"
     },
     "intro2":{
-        "message": "這個擴充套件被設計用來自動保護你的隱私以免受你在瀏覽網頁時無形中載入的第三方追蹤器。我們在每個請求中傳送了「請勿追蹤」（Do Not Track, DNT）檔頭，我們的擴充套件仍然會評估被追蹤的可能性。如果演算法認為可能性太高，我們自動封鎖被發送到這個網域的請求。請了解Privacy Badger處於測試階段，而演算法的測定並不肯定那個網域在追蹤你。"
+        "message": "這個擴充套件被設計用來自動保護你的隱私以免受你在瀏覽網頁時無形中載入的第三方追蹤器。我們在每個請求中傳送了「請勿追蹤」(Do Not Track, DNT) 檔頭，我們的擴充套件仍然會評估被追蹤的可能性。如果演算法認為可能性太高，我們自動封鎖被發送到這個網域的請求。請注意 Privacy Badger 仍處於測試階段，而演算法無法完全肯定網域在追蹤你。"
     },
     "intro_3_states":{
         "message": "我們的擴充套件有三種狀態。"
@@ -186,22 +186,22 @@
         "message": "紅色"
     },
     "intro_has_blocked":{
-        "message": "代表Privacy Badger認為這個網域是一個追蹤器，並封鎖了它。"
+        "message": "代表 Privacy Badger 認為這個網域是一個追蹤器，並封鎖了它。"
     },
     "intro_yellow":{
         "message": "黃色"
     },
     "intro_cookie_blocked":{
-        "message": "代表此網域既是追蹤器，也是頁面必需的部分，所以Privacy Badger允許它但是封鎖 cookie。"
+        "message": "代表此網域既是追蹤器，但亦是頁面必需的部分，所以 Privacy Badger 允許它只封鎖 cookie。"
     },
     "intro_green":{
         "message": "綠色"
     },
     "intro_no_tracker":{
-        "message": "意味著Privacy Badger認為這不是追蹤器。如果你想更改自動封鎖設定，可以點選瀏覽器工具列上的Privacy Badger圖示；也可以繼續上網，Privacy Badger會找出並一個一個吃掉追蹤器。"
+        "message": "意味著 Privacy Badger 認為這不是追蹤器。如果你想更改自動封鎖設定，可以點選瀏覽器工具列上的 Privacy Badger 圖示；也可以繼續上網，Privacy Badger 會找出並一個一個吃掉追蹤器。"
     },
     "intro_hungry":{
-        "message":"Privacy Badger肚子餓的時候，沒有任何東西可以阻止它吃 cookie！"
+        "message":"Privacy Badger 肚子餓的時候，沒有任何東西可以阻止它吃 cookie！"
     },
     "intro_by_eff":{
         "message": "EFF 電子前鋒基金會的專案"
@@ -213,7 +213,7 @@
         "message": "Privacy Badger 正在保護你，若要了解 Privacy Badger 的運作原理，請點擊下方進行快速教學。"
     },
     "ded_privacy_badger_alert": {
-        "message": "Privacy Badger警告！"
+        "message": "Privacy Badger 警告！"
     },
     "ded_logging_into": {
         "message": "登入到"
@@ -243,10 +243,10 @@
         "message": "追蹤器網域"
     },
     "options_so_far": {
-        "message": "這些滾動條可讓你控制Privacy Badger要如何處理追蹤器。"
+        "message": "這些滾動條可讓你控制 Privacy Badger 要如何處理追蹤器。"
     },
     "slideshow_1": {
-        "message": "你好，我是Privacy Badger！感謝你安裝我。以下是一些有用的提示，以便我們可以合作愉快。"
+        "message": "你好，我是 Privacy Badger！感謝你安裝我。以下是一些有用的訣竅，以便我們可以合作愉快。"
     },
     "slideshow_2": {
         "message": "我會在你的瀏覽器裡面，注意那些記錄你上網紀錄的間諜廣告和追蹤器。"
