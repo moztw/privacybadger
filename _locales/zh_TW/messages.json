@@ -234,7 +234,7 @@
         "message": "永久封鎖第三方請求從"
     },
     "options_pb_has_detected": {
-        "message": "目前為止，Privacy Badger偵測到"
+        "message": "目前為止，Privacy Badger 偵測到"
     },
     "options_potential": {
         "message": "個可能的"
