@@ -96,7 +96,7 @@
         "message": "替換社交網路小工具"
     },
     "options_title": {
-        "message": "Privacy Badger設定"
+        "message": "Privacy Badger 設定"
     },
     "options_webrtc_setting": {
         "message": "防止 WebRTC 洩漏本機 IP 地址 *"
@@ -129,7 +129,7 @@
         "message": "Privacy Badger"
     },
     "privacy_badger_what_is": {
-        "message": "什麼是Privacy Badger？"
+        "message": "什麼是 Privacy Badger？"
     },
     "remove_button": {
         "description": "這是「刪除所選」的按鈕標籤。",
